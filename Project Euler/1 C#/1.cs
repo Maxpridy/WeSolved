@@ -1,4 +1,4 @@
-using System;
+wh   //using System;
 
 
 namespace Csharpselfstudy
@@ -21,3 +21,5 @@ namespace Csharpselfstudy
         }
     }
 }
+
+//Hangeul is broken down here. It ues only English
