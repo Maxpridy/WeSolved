@@ -42,7 +42,15 @@ namespace Csharpselfstudy
 
             Console.WriteLine("sum : {0}", sum);
         }
+<<<<<<< HEAD
 
     }
 }
 //
+=======
+        
+    }
+}
+
+
+>>>>>>> 25742de89deac396ee01a7b23f4464e63386fb63
