@@ -30,7 +30,11 @@ class program
             {
                 count++;
                 Console.WriteLine(count + " " + array[i]);
+
+
             }
+
         }
+
     }
 }
